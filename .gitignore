@@ -1,0 +1,5 @@
+*pycache*
+*/*pycache*
+figures
+meshes
+meshes_MFEM
